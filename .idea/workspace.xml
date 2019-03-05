@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebf0e769-f555-40d9-a2d9-5748eee3ef63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsonSchemas.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/defaults.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/feild.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/language.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/regex.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/transl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/Singleton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fileio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/jsonInterface.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testinput.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testoutput.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/feild.py" beforeDir="false" afterPath="$PROJECT_DIR$/bin/feild.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/regex.config" beforeDir="false" afterPath="$PROJECT_DIR$/bin/regex.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/transl.py" beforeDir="false" afterPath="$PROJECT_DIR$/bin/transl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jsonInterface.py" beforeDir="false" afterPath="$PROJECT_DIR$/libs/jsonInterface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testinput.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/testinput.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,11 +16,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Translator$feild.coverage" NAME="feild Coverage Results" MODIFIED="1551670128994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bin" />
+    <SUITE FILE_PATH="coverage/Translator$feild.coverage" NAME="feild Coverage Results" MODIFIED="1551748474771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bin" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testinput.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
@@ -39,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bin/transl.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+            <state relative-caret-position="1211">
+              <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -52,10 +42,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bin/language.config">
+        <entry file="file://$PROJECT_DIR$/libs/jsonInterface.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
-              <caret line="56" column="16" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
+            <state relative-caret-position="273">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <element signature="e#1#12#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,8 +56,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bin/regex.config">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="272">
+              <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/feild.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libs/Singleton.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/defaults.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -85,12 +108,12 @@
       <find>SEMI-COLON</find>
       <find>REGEX-GROUP:0</find>
       <find>'</find>
-      <find>:</find>
       <find>\</find>
       <find>-PATTERN</find>
       <find>no-</find>
       <find>: {</find>
       <find>close_comment</find>
+      <find>:</find>
     </findStrings>
     <replaceStrings>
       <replace>__file_name</replace>
@@ -104,6 +127,7 @@
       <replace>: { &quot;name&quot;:,</replace>
       <replace>: { &quot;name&quot;:&quot;&quot;,</replace>
       <replace>__close_comment</replace>
+      <replace>:</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -118,23 +142,23 @@
         <option value="$PROJECT_DIR$/libs/constants.py" />
         <option value="$PROJECT_DIR$/bin/config" />
         <option value="$PROJECT_DIR$/bin/setting.config" />
-        <option value="$PROJECT_DIR$/bin/language.config" />
         <option value="$PROJECT_DIR$/libs/fileio.py" />
         <option value="$PROJECT_DIR$/libs/defaults.py" />
-        <option value="$PROJECT_DIR$/bin/feild.py" />
         <option value="$PROJECT_DIR$/bin/defaults.py" />
-        <option value="$PROJECT_DIR$/libs/jsonInterface.py" />
         <option value="$PROJECT_DIR$/bin/regex.config" />
         <option value="$PROJECT_DIR$/testinput.cpp" />
+        <option value="$PROJECT_DIR$/bin/language.config" />
+        <option value="$PROJECT_DIR$/libs/jsonInterface.py" />
+        <option value="$PROJECT_DIR$/bin/feild.py" />
         <option value="$PROJECT_DIR$/bin/transl.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-1065" />
-    <option name="y" value="1206" />
-    <option name="width" value="215" />
-    <option name="height" value="95" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1030" />
+    <option name="y" value="520" />
+    <option name="width" value="214" />
+    <option name="height" value="54" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -237,18 +261,19 @@
       <workItem from="1551484229836" duration="27579000" />
       <workItem from="1551625449322" duration="12880000" />
       <workItem from="1551651983299" duration="18069000" />
+      <workItem from="1551731172181" duration="9570000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58528000" />
+    <option name="totallyTimeSpent" value="68098000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1927" y="513" width="1550" height="878" extended-state="7" />
+    <frame x="-1927" y="513" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.22818792" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.22818792" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -258,8 +283,8 @@
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.40616623" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.3230563" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.40616623" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.1930295" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
@@ -269,7 +294,7 @@
       <window_info anchor="right" id="Commander" order="3" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
       <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.24966443" />
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -284,7 +309,7 @@
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="bottom" id="Run" order="8" weight="0.40616623" />
-      <window_info anchor="bottom" id="Debug" order="9" visible="true" weight="0.3230563" />
+      <window_info active="true" anchor="bottom" id="Debug" order="9" visible="true" weight="0.1930295" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
@@ -294,7 +319,7 @@
       <window_info anchor="right" id="Commander" order="3" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
       <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.24966443" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,13 +381,7 @@
     <entry file="file://$PROJECT_DIR$/testoutput.cpp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/config">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-285">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/config" />
     <entry file="file://E:/Softwares/Anaconda/Lib/json/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -394,24 +413,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libs/Singleton.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/Softwares/Anaconda/Lib/re.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="179" column="4" selection-start-line="179" selection-start-column="4" selection-end-line="179" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/feild.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -425,40 +430,47 @@
     <entry file="file://$PROJECT_DIR$/bin/defaults.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/language.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="48" column="30" lean-forward="true" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/libs/jsonInterface.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        <state relative-caret-position="273">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#1#12#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bin/regex.config">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="272">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/language.config">
+    <entry file="file://$PROJECT_DIR$/libs/Singleton.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="16" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/transl.py">
+    <entry file="file://$PROJECT_DIR$/bin/feild.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="20" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -467,6 +479,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/transl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1211">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -9,5 +9,5 @@ firstName := /*TRANSL*/'8'/**/golang
 firstName= '9'
 ele.settext(/*TRANSL*/"10" /**/);c++
 public static double a = /**TRANSL*/11.1/***/;java
-public name: string = /**TRANSL*/ "default"/***/ typescript
+public name: string = /**TRANSL*/ "default pro"/***/ typescript
 /*var student string*/
