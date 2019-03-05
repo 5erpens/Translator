@@ -1,0 +1,12 @@
+numpy==1.15.1
+cryptography==2.3.1
+pywin32==223
+Cython==0.28.5
+lxml==4.2.5
+pyOpenSSL==19.0.0
+protobuf==3.7.0
+ipaddr==2.2.0
+mock==2.0.0
+ordereddict==1.1
+simplejson==3.16.0
+wincertstore==0.2
