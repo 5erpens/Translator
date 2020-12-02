@@ -2,7 +2,7 @@ numpy==1.15.1
 cryptography==2.3.1
 pywin32==223
 Cython==0.28.5
-lxml==4.2.5
+lxml==4.6.2
 pyOpenSSL==19.0.0
 protobuf==3.7.0
 ipaddr==2.2.0
